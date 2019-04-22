@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Kiko Now
+name: "Lorenz Ohly's Blog" 
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: "Blog about data and other stuff"
 
 #
 # Flags below are optional
