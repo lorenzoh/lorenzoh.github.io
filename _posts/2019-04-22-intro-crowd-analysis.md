@@ -71,11 +71,10 @@ If you're interested in how these are being solved, here are some papers to get 
 
 **[Single-Image Crowd Counting via Multi-Column Convolutional Neural Network](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_Single-Image_Crowd_Counting_CVPR_2016_paper.pdf)**
 
-While this paper is no longer state-of-the-art, the model architecture is easy to understand.
+No longer state-of-the-art, but the model architecture is easy to understand.
 
 **[Composition Loss for Counting, Density Map Estimation and Localization in Dense Crowds](https://www.crcv.ucf.edu/papers/eccv2018/2324.pdf)**
-
-In this state-of-the-art paper, the authors build a single network architecture for tackling counting, density estimation *and* localization.
+A single state-of-the-art network architecture for tackling counting, density estimation *and* localization.
 
 ---
 
