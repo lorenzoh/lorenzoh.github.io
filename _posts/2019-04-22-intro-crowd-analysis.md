@@ -49,8 +49,6 @@ In practice, density estimation is often used as an auxiliary task for counting,
 
 ## Localization
 
-#image of crowd with annotations marked
-
 > Given an input image, predict head positions for every person in it.
 
 This is the hardest task of the three, in which you want to find (x, y)-coordinates centered around every person's head.
