@@ -16,9 +16,9 @@ There are important applications for analyzing large gatherings of people, like 
 
 ![Crowd image from UCF-QNRF dataset](../images/img_0739_25.jpg)
 
-In this post, I want to give an overview over the challenges in crowd analysis and some of the tasks that can be learned with deep learning and point to some current research tackling them.
+In this post, I want to give an overview over the challenges in crowd analysis, some of the tasks deep learning can be applied to and point to some current research tackling them.
 
-The data for crowd analysis can consist of either images (*single-image*) or videos (*multi-image*) taken from one position/camera (*single-view*) or multiple positions (*multi-view*).
+The data used for crowd analysis can consist of either images (*single-image*) or videos (*multi-image*) taken from one position/camera (*single-view*) or multiple positions (*multi-view*).
 
 For simplicity's sake, I will focus on the single-view, single-image case; keep in mind that in reality, one might be faced with many videos recorded from different positions with varying overlap.
 
@@ -64,6 +64,8 @@ The **number of people** in an image can vary wildly from under 10 to more than 
 Most people in a crowd image are **heavily occluded**, meaning that only a small part of their body – the head – is visible.
 
 Moreover, photographs of crowds suffer from **perspective distortion** causing people in the forergound to appear much larger than people in the background.
+
+---
 
 If you're interested in how these are being solved, here are some papers to get you started:
 
