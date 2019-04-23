@@ -57,7 +57,7 @@ Note again that this solves both counting (just the number of coordinates) and d
 
 ## Challenges
 
-Solving these tasks brings some challenges that regular *object detection* algorithms like YOLO [4] are not equipped to handle:
+Solving these tasks brings some challenges that regular *object detection* algorithms like [YOLO](https://pjreddie.com/darknet/yolo/) are not equipped to handle:
 
 The **number of people** in an image can vary wildly from under 10 to more than 10000. 
 
@@ -74,6 +74,7 @@ If you're interested in how these are being solved, here are some papers to get 
 No longer state-of-the-art, but the model architecture is easy to understand.
 
 **[Composition Loss for Counting, Density Map Estimation and Localization in Dense Crowds](https://www.crcv.ucf.edu/papers/eccv2018/2324.pdf)**
+
 A single state-of-the-art network architecture for tackling counting, density estimation *and* localization.
 
 ---
