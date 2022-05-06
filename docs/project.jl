@@ -17,7 +17,6 @@ project = Project(
         DocumentFolder(Pkg.pkgdir(m), prefix = "documents"),
         ParseCode(),
         ExecuteCode(),
-        PackageDocumentation(ms),
         StaticResources(),
         DocumentGraph(),
         SearchIndex(),
